@@ -5,9 +5,9 @@
 
 
 
-As a programmer without CS degree, I have decided to study OS and would like to share the knowledges I get, and to remind me later of what I have learned.
+As a programmer without CS degree, I have decided to study OS and to store what I get so I can easily pull out what I have learned when needed.
 
 
 
-The study resource is from on-line lecture website called 'Fast Campus' (https://www.fastcampus.co.kr/).
+All the archives are written based on the on-line lecture called 'Fast Campus' (https://www.fastcampus.co.kr/).
 
